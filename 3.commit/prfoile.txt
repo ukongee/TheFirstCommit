@@ -1,2 +1,2 @@
-email :
-gitID :
+email :qkrb8019@gmail.com
+gitID :ukongee
